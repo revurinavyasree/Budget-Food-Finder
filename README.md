@@ -1,121 +1,118 @@
-# Budget Food Finder 🍽️
+# 🍽 Budget Food Finder
 
-## Project Overview
-
-Budget Food Finder is a Python-based web scraping and food recommendation system developed using BeautifulSoup.
-
-The project extracts menu items from a restaurant website, processes the collected data, provides keyword-based food recommendations, and generates visual insights using data visualization techniques.
-
-This project demonstrates web scraping, data cleaning, data analysis, recommendation systems, and visualization using Python.
+A Python-based web scraping and recommendation system that helps users find food items based on **budget, category, and keyword search**. Built using BeautifulSoup and enhanced with a Streamlit dashboard for interactive visualization.
 
 ---
 
-## Features
+## 🚀 Project Overview
 
-* Web scraping using BeautifulSoup
-* Restaurant menu data extraction
-* CSV data storage
-* Data cleaning and preprocessing
-* Keyword-based food recommendation engine
-* Data visualization using Matplotlib
-* Modular Python project structure
-* GitHub version control
+Budget Food Finder extracts menu data from a restaurant website, cleans and structures it, and provides smart recommendations based on user input such as food name and budget. It also includes data visualization and an interactive UI.
 
 ---
 
-## Technologies Used
+## ✨ Features
 
-* Python
-* BeautifulSoup4
-* Requests
-* Pandas
-* Matplotlib
-* Git & GitHub
+- 🌐 Web scraping using BeautifulSoup
+- 📊 Data extraction from restaurant menus
+- 🧹 Data cleaning and preprocessing
+- 💰 Budget-based filtering system
+- 🔍 Keyword-based food search
+- 📂 Category grouping (Bowls, Salads, Drinks, etc.)
+- 📊 Data visualization using Matplotlib
+- 🖥 Streamlit interactive dashboard
+- ⭐ Top recommendation highlight system
 
 ---
 
-## Project Structure
+## 🛠️ Technologies Used
 
-```text
+- Python
+- BeautifulSoup
+- Requests
+- Pandas
+- Matplotlib
+- Streamlit
+- Git & GitHub
+
+---
+
+## 📁 Project Structure
 Budget-Food-Finder/
 │
-├── scraper.py
-├── cleaner.py
-├── recommender.py
-├── visualizer.py
-├── requirements.txt
+├── scraper.py # Web scraping script
+├── cleaner.py # Data cleaning & preprocessing
+├── recommender.py # Recommendation engine
+├── visualizer.py # Charts and analysis
+├── app.py # Streamlit web app
 │
 ├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
+│ ├── raw_data.csv
+│ └── cleaned_data.csv
 │
 ├── charts/
-│   └── top_menu_items.png
+│ ├── category_distribution.png
+│ └── top_expensive_items.png
 │
+├── requirements.txt
 └── README.md
-```
+
 
 ---
 
-## Workflow
+## 🖥️ How to Run the Project
 
-1. Scrape menu data from the target website.
-2. Store extracted data in CSV format.
-3. Clean and preprocess the dataset.
-4. Search menu items using keywords.
-5. Generate recommendations.
-6. Visualize the collected data.
+### 1️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
 
----
+2️⃣ Run scraper
+python scraper.py
+3️⃣ Clean data
+python cleaner.py
+4️⃣ Run recommender (CLI version)
+python recommender.py
+5️⃣ Run Streamlit App
+python -m streamlit run app.py
 
-## Example Usage
+📊 Example Usage
 
-### Search Query
-
-```text
-chicken
-```
-
-### Recommended Results
-
-```text
+Input:
+Food: chicken
+Budget: 300
+Output:
 Classic Chicken Caesar
-Cali Chicken Club
 Chicken Pesto Parm
-Chicken Avocado Ranch
 BBQ Chicken Salad
-Buffalo Chicken
-```
 
----
+📈 Visualizations
 
-## Future Enhancements
+Category distribution of menu items
+Average price by category
+Top expensive items analysis
 
-* Price-based food recommendations
-* Nutrition analysis
-* Multi-restaurant support
-* Selenium integration for dynamic websites
-* Streamlit dashboard
-* AI-powered recommendation system
-* Location-based restaurant recommendations
+🎯 Key Learning Outcomes
 
----
+Web scraping with BeautifulSoup
+Data cleaning and preprocessing
+Building recommendation logic
+Working with CSV datasets
+Creating interactive dashboards using Streamlit
+Structuring a full Python project
 
-## Learning Outcomes
+🚀 Future Enhancements
 
-This project helped in understanding:
+Multi-restaurant scraping system
+Price trend analysis
+AI-based recommendation ranking
+Deployment on Streamlit Cloud
+User login system
 
-* Web scraping fundamentals
-* HTML parsing using BeautifulSoup
-* Data cleaning using Pandas
-* Recommendation system basics
-* Data visualization techniques
-* Git and GitHub workflow
+👨‍💻 Author
 
----
+Revuri Navyasree
 
-## Author
+📌 Note
 
-**Revuri Navyasree**
+This project is part of a Python internship assignment focusing on web scraping with beautifulsoup.
 
 
