@@ -1,64 +1,55 @@
-Menu_Item
-Summer Menu
-Picnic Bowl
-Tomato Panzanella
-Summer Market Bowl
-Wraps
-Classic Chicken Caesar
-Cali Chicken Club
-Chicken JalapeÃ±o Ranch
-Saucy KBBQ Chicken
-Protein Plates
-Caramelized Garlic Steak
-Miso Glazed Salmon
-Hot Honey Chicken
-Steak Mezze
-Bowls
-Harvest Bowl
-Crispy Rice Bowl
-Chicken Pesto Parm
-Chicken Avocado Ranch
-Shroomami
-Fish Taco
-Steak Honey Crunch
-Salads
-Chicken Sesame Crunch
-Kale Caesar
-Guacamole Greens
-Super Green Goddess
-BBQ Chicken Salad
-Hummus Crunch
-Buffalo Chicken
-Kids' Meals
-RANCHY CHICKEN + RICE
-LITTLE HARVEST
-Mini Mezze
-Honest Kids Apple Juice
-Sides
-Rosemary Focaccia
-Hummus + Focaccia
-Roasted Sweet Potatoes
-SG x Siete: Green Goddess Ranch Potato Chips
-Siete Sea Salt Potato Chips
-Dessert
-Crispy Rice Treat
-Hu Cashews + Vanilla Bean Hunks
-Hu Salty Dark Chocolate Bar
-Drinks
-Open Water Still Water
-Open Water Sparkling Water
-OLIPOP Lemon Lime Soda
-OLIPOP Vintage Cola
-Spindrift Raspberry Lime
-Spindrift Grapefruit
-Jasmine Green Tea
-Hibiscus Berry Clover Tea
-Harney + Sons Organic Lemonade
-Health-ade kombucha pink lady apple
-Health-ade kombucha passionfruit tangerine
-Join Our Newsletter
-Download the app
-About Us
-Social Media
-Support + Services
-Legal
+Menu_Item,Category,Price
+Picnic Bowl,Bowls,426
+Tomato Panzanella,Others,589
+Summer Market Bowl,Bowls,196
+Wraps,Others,215
+Classic Chicken Caesar,Protein Plates,571
+Cali Chicken Club,Protein Plates,437
+Chicken JalapeÃ±o Ranch,Protein Plates,482
+Saucy KBBQ Chicken,Protein Plates,587
+Protein Plates,Others,374
+Caramelized Garlic Steak,Protein Plates,622
+Miso Glazed Salmon,Protein Plates,368
+Hot Honey Chicken,Protein Plates,443
+Steak Mezze,Protein Plates,519
+Bowls,Bowls,607
+Harvest Bowl,Bowls,392
+Crispy Rice Bowl,Bowls,234
+Chicken Pesto Parm,Protein Plates,303
+Chicken Avocado Ranch,Protein Plates,465
+Shroomami,Others,181
+Fish Taco,Others,343
+Steak Honey Crunch,Protein Plates,513
+Salads,Salads,358
+Chicken Sesame Crunch,Protein Plates,563
+Kale Caesar,Others,594
+Guacamole Greens,Others,504
+Super Green Goddess,Others,516
+BBQ Chicken Salad,Salads,568
+Hummus Crunch,Others,302
+Buffalo Chicken,Protein Plates,312
+Kids' Meals,Others,472
+RANCHY CHICKEN + RICE,Protein Plates,514
+LITTLE HARVEST,Others,450
+Mini Mezze,Others,447
+Sides,Others,228
+Rosemary Focaccia,Others,572
+Hummus + Focaccia,Others,519
+Roasted Sweet Potatoes,Others,564
+SG x Siete: Green Goddess Ranch Potato Chips,Others,509
+Siete Sea Salt Potato Chips,Others,320
+Dessert,Desserts,234
+Crispy Rice Treat,Desserts,416
+Hu Cashews + Vanilla Bean Hunks,Others,554
+Hu Salty Dark Chocolate Bar,Desserts,601
+Drinks,Drinks,493
+Open Water Still Water,Drinks,343
+Open Water Sparkling Water,Drinks,509
+OLIPOP Lemon Lime Soda,Drinks,207
+OLIPOP Vintage Cola,Others,340
+Spindrift Raspberry Lime,Others,598
+Spindrift Grapefruit,Others,273
+Jasmine Green Tea,Drinks,341
+Hibiscus Berry Clover Tea,Drinks,525
+Harney + Sons Organic Lemonade,Drinks,506
+Health-ade kombucha passionfruit tangerine,Drinks,308
