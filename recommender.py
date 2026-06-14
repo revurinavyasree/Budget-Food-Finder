@@ -10,8 +10,15 @@ results = df[
     .str.contains(keyword, na=False)
 ]
 
-if len(results) == 0:
+results["Score"] = results["Menu_Item"].str.len()
+
+results = results.sort_values(
+    by="Score",
+    ascending=False
+)
+
+if results.empty:
     print("No matching items found.")
 else:
-    print("\nRecommendations:\n")
     print(results)
+    
