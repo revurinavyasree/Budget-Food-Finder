@@ -107,12 +107,15 @@ AI-based recommendation ranking
 Deployment on Streamlit Cloud
 User login system
 
+## 🎓 Internship Details
+
+- Internship ID: CITS1184  
+- Domain: Python Development / Web Scraping  
+- Project Type: Budget Food Finder (Web Scraper (BeautifulSoup))
+
 👨‍💻 Author
 
 Revuri Navyasree
 
-📌 Note
-
-This project is part of a Python internship assignment focusing on web scraping with beautifulsoup.
 
 
